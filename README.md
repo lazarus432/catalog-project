@@ -28,10 +28,6 @@ through Google, will be able to create, update, and delete their own personal in
 * [SQL Alchemy](http://www.sqlalchemy.org/) - Python SQL Toolkit
 * [Vagrant](https://www.vagrantup.com/intro/index.html) - Introduction to Vagrant
 
-## API Reference
-
-* Flask 
-
 ## Author
 
 * **Nicolas Bolduc** _-Initial Work-_ [Lazarus](https://github.com/lazarus432)
